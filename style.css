@@ -1,0 +1,29 @@
+h1{
+    color: blue;
+
+    }
+    *{
+        background-color:lemonchiffon;
+    }
+
+    .header {
+        border:solid;
+        background-color:blue;
+        display:flex;
+        justify-content:space-between
+    }
+    .grid {
+        color:coral;
+        display:flex;
+        justify-content:space-evenly
+
+    }
+    .item{
+        background-color:darkcyan;
+        color:darkred;
+        
+    }
+    .footer {
+        display:flex;
+        justify-content:flex-end;
+    }
